@@ -10,11 +10,12 @@ Materials Needed:</br>
 > An IR Sensor 
 
 </br>
-The </b>Dino Folder</b> contains a small snippet or example of how we use pyautogui and an Arduino Board and Ultrasonic Sensor to play the dino game on chrome.  </br> 
+The </b>Dino Folder</b> contains a small snippet or example of how we use pyautogui and an Arduino Board and Ultrasonic Sensor to play the dino game on chrome.  
+
 The Hand_gesture Folder coints the main .py and .ino file which implement the following functions:</br>
 > Switch on/off Gestures </br>
 > Switch between tabs </br>
-> Auto-Brightness adjustment 
+> Auto-Brightness adjustment <br> 
 > Vedio Playback functions : play,pause,rewind,forward, volume increse, volume decrease, enter fullscreen, exit (try these on Youtube)
 
 You can implement different gesture recognition and map it to system functions.</br>
