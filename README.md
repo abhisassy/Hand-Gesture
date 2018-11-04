@@ -5,8 +5,8 @@ Materials Needed:</br>
 > A laptop or Desktop </br>
 > A webcam </br>
 > Arduino Uno </br>
-> 3 Ultra Sound Sensors
-> A light Sensor (lru)
+> 3 Ultra Sound Sensors </br>
+> A light Sensor (lru) </br>
 > An IR Sensor 
 
 </br>
